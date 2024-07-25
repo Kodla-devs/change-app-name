@@ -1,16 +1,10 @@
-# change_app_name
+# Change App Name - Flutter - Ios & Android
 
-A new Flutter project.
+### Detailed Video
 
-## Getting Started
+[![How to Change App Name? Flutter - Ios & Android](https://img.youtube.com/vi/NMRLrL4GWM4/0.jpg)](https://www.youtube.com/watch?v=NMRLrL4GWM4)
 
-This project is a starting point for a Flutter application.
+### Short Video
 
-A few resources to get you started if this is your first Flutter project:
+[![How to Change App Name? Flutter - Ios & Android](https://img.youtube.com/vi/CZ5c8xzFfew/0.jpg)](https://www.youtube.com/watch?v=CZ5c8xzFfew)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
