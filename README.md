@@ -1,10 +1,11 @@
 # Change App Name - Flutter - Ios & Android
 
-### Detailed Video
+Guide to change the name of the Flutter app for android and ios.
 
-[![How to Change App Name? Flutter - Ios & Android](https://img.youtube.com/vi/NMRLrL4GWM4/0.jpg)](https://www.youtube.com/watch?v=NMRLrL4GWM4)
+### Video
 
-### Short Video
+[![Watch the video](https://img.youtube.com/vi/NMRLrL4GWM4/maxresdefault.jpg)](https://youtu.be/NMRLrL4GWM4)
 
-[![How to Change App Name? Flutter - Ios & Android](https://img.youtube.com/vi/CZ5c8xzFfew/0.jpg)](https://www.youtube.com/watch?v=CZ5c8xzFfew)
+
+
 
